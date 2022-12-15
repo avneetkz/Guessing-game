@@ -1,0 +1,4 @@
+# Guessing-game
+A three-stage guessing game in each stage the user must guess the secret number in five attempts while the range of the Secret number is increased at each stage.
+
+Range of Secret number should be increased at stage like 1 to 10 in stage in 1, 1 to 20 in stage 2 and 1 to 30 in stage 3. If the user correctly guessed the secret number, the system should display "your guess is correct" and moves to next stage; otherwise, it should tell the user whether the guessed number is higher or lower than the secret number and proceed to the next attempt. If the user fails to guess correctly after five attempts, the game should end with the message "Game Over, You Lose the Game." If user successfully guessed in all the three stages, display "You won the Game with scored points", then points scored at each level and stops the game.
